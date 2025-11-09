@@ -18,6 +18,7 @@
 	"dependencies": {
 		"@mihnea.dev/credit-card-generator": "^1.0.9",
 		"binlookup": "^2.0.1",
+		"hono": "latest",
 		"telegraf": "^4.16.3"
 	}
 }
